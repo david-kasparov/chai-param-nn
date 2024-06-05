@@ -1,5 +1,5 @@
 {
-  "name": "chai-param",
+  "name": "chai-param-nn",
   "author": "The Blacksmith (a.k.a. Saulo Vallory)",
   "license": "MIT",
   "description": "Adds useful methods for using chai to validate function parameters",
@@ -26,11 +26,11 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "chai": "^1.9.1",
-    "mocha": "^2.4.2"
+    "chai": "^4.1.1",
+    "mocha": "^10.4.0"
   },
   "dependencies": {
-    "chalk": "^0.5.1",
-    "stack-trace": "0.0.9"
+    "chalk": "^4.1.2",
+    "stack-trace": "0.0.10"
   }
 }
