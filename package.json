@@ -13,7 +13,7 @@
     "parameter"
   ],
   "homepage": "https://github.com/david-kasparov/chai-param-nn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git@github.com:david-kasparov/chai-param-nn.git"
