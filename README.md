@@ -1,4 +1,6 @@
-# Import path has been fixed to support modern Node.js versions, ensuring compatibility and leveraging the latest features and performance enhancements
+# This is a fork of the popular but abandoned npm package chai-param (https://github.com/theblacksmith/chai-param).
+
+# Import path has been fixed to support modern Node.js versions.
 
 # chai-param-nn
 
@@ -34,7 +36,7 @@ Happy method guarding :)
 
 ## Config
 
-Chai-param can be configured by setting the values in `chaiParam.config` object properties. E.g:
+chai-param-nn can be configured by setting the values in `chaiParam.config` object properties. E.g:
 
     var chaiParam = require('chai-param-nn');
 
@@ -44,7 +46,7 @@ Chai-param can be configured by setting the values in `chaiParam.config` object 
 
 > Type: `Boolean` Default: `true`
 
-Controls whether or not `chai-param` should replace chai's messages by more descriptive ones. So, for example, instead of getting
+Controls whether or not `chai-param-nn` should replace chai's messages by more descriptive ones. So, for example, instead of getting
 
     UserCtl.register: expected 'asdf' to have a length above 5 but got 4
 

@@ -12,14 +12,11 @@
     "chai-plugin",
     "parameter"
   ],
-  "homepage": "http://github.com/theblacksmith/chai-param",
+  "homepage": "https://github.com/david-kasparov/chai-param-nn",
   "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theblacksmith/chai-param.git"
-  },
-  "bugs": {
-    "url": "https://github.com/theblacksmith/chai-param/issues"
+    "url": "git@github.com:david-kasparov/chai-param-nn.git"
   },
   "main": "./index",
   "scripts": {
